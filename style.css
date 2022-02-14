@@ -40,7 +40,7 @@
 }
 
 .slide-contents h2{
-    font-size:4vw;
+    font-size:3vw;
     font-family: 'PT Serif', serif;
     margin-left: 4vw;
     margin-right: 4vw;
@@ -53,6 +53,14 @@
 
 #img2{
     width: 70%;
+}
+
+#img3{
+    width:70%
+}
+
+#img4{
+    width:70%;
 }
 
 
