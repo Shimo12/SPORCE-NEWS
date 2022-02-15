@@ -5,6 +5,12 @@
     font-family: 'PT Serif', serif;
 }
 
+.t img{
+    width:40%;
+    margin-top: -5vw;
+    margin-bottom: 5vw;
+}
+
 
 .front-font{
     text-align: center
@@ -47,6 +53,42 @@
     text-align: left;
 }
 
+.slide-btn2 {
+    display: block;
+    width: 90%;
+    margin: 0 auto 1em auto;
+    text-align: center;
+    padding: 7px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    background: rgb(145, 9, 9);
+    cursor: pointer;
+    font-size:4vw;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+.slide-contents2 {
+    display: none;
+}
+
+.slide-contents2 h2{
+    font-size:3vw;
+    font-family: 'PT Serif', serif;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
 #img1 {
     width:80%;   
 }
@@ -63,6 +105,34 @@
     width:70%;
 }
 
+#img6{
+    width:50%;
+}
+
+.content-title2{
+    margin-top:20vw;
+    text-align: center;
+    font-size:4vw;
+    color:#676d71;
+    font-family: 'PT Serif', serif;
+    Border-bottom: solid 2px #c0c0c0;
+    }
+    
+    .menu{
+        margin-top: -5vw;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu img{
+        
+        width:25vw;
+        margin:10vw 3vw;
+    }
+    
+    .menu span{
+        font-size: 4vw;
+    }
 
 .last{
     text-align: center;
