@@ -5,6 +5,20 @@
     font-family: 'PT Serif', serif;
 }
 
+.home{
+    text-align: left;
+    margin-left:3vw;
+}
+.home img{
+    width:13%;
+}
+.home h3{
+    text-align: left;
+    font-size:3.4vw;
+    margin-top:-2vw;
+    margin-left: 1.2vw;
+}
+
 .t img{
     width:40%;
     margin-top: -5vw;
